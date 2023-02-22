@@ -1,6 +1,6 @@
 ### Olá, me chamo Glauber 👋
 
-- 🔭 Trabalho com Reactjs e Nodejs .
+- 🔭 Desenvolvedor Web.
 - 🌱 Estudando tecnologias back-end no momento .
 - 👯 Interessado em  vaga de programador junior .
 - 📫 Disponível para vagas Home Office .
