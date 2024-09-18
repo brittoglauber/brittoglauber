@@ -1,8 +1,7 @@
 ### Olá, me chamo Glauber 👋
 
 - 🔭 Desenvolvedor de software.
-- 🌱 Estudando tecnologias back-end e devops no momento .
-- 👯 Interessado em  vaga de programador junior / pleno .
+- 🌱 Estudando tecnologias de IA generativa e blockchain .
 - 📫 Disponível para vagas Home Office .
 - ✉️ brittoglauber@gmail.com / 77 9 99840028 .
 - ⚡ Disposto a poder contribuir com o time .
