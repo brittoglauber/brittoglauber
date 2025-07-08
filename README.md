@@ -1,10 +1,10 @@
-### Olá, me chamo Glauber 👋
+### Hello 👋
 
-- 🔭 Desenvolvedor de software.
-- 🌱 Estudando tecnologias de IA generativa e blockchain .
-- 📫 Disponível para vagas Home Office .
-- ✉️ brittoglauber@gmail.com / 77 9 99840028 .
-- ⚡ Disposto a poder contribuir com o time .
+As a Senior Software Engineer, I specialize in architecting scalable, high-performance systems that seamlessly integrate backend (Java, Node.js, Python) and frontend (React, Angular) technologies. My expertise extends to cloud-native development (AWS, GCP, Azure), DevOps (Docker, Kubernetes, Terraform), and CI/CD pipelines, ensuring efficient, maintainable, and secure deployments.
+
+Passionate about AI and machine learning, I have built financial analytics platforms powered by generative AI, leveraging LLMs to drive predictive insights and process automation. As a former CTO, I led the development of an innovative fintech product, aligning technical execution with strategic business goals.
+
+I thrive in event-driven architectures (Kafka), SQL/NoSQL database design, and Agile environments, where I create impactful, user-focused products. Beyond code, I’m passionate about mentoring teams, fostering collaboration, and aligning technology with business strategy—because great software is built by great teams.
 
 
 <div align="center">
